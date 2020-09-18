@@ -1,0 +1,24 @@
+body{font-family: 'Courier New', Courier, monospace; background-color: rgb(34, 229, 236);}
+.wrap{width: 100%;}
+.wrap .title{color: rgb(12, 83, 163); font-size: 1.3em; letter-spacing: -2px; font-weight: bold; margin-bottom: 0px;}
+.wrap .title_en{color: rgb(12, 83, 163); font-size: 1.1em; letter-spacing: -2px; font-weight: bold; margin-top: 0px;}
+.wrap .rangeInput{width: 30px;}
+.wrap .rangeSpan{font-size: 0.9em; color: #555;margin-right: 8px;}
+.wrap .rangeSmall{margin-left: -7px; margin-right: 8px; color: #555; }
+.wrap .rangeSpanNumber{font-size: 0.9em; color: #555;}
+.wrap .rangeSpanSmall{ color: #555; margin-right: 15px;}
+.wrap .rangeInput::placeholder, .wrap .numberInput::placeholder , .rangeInputEnd::placeholder {opacity: .3;}
+.wrap .numberInput, .rangeInputEnd{width: 60px;}
+.wrap .numberInput{margin-left: 7px;}
+.del{margin-right: 10px; background-color: transparent;border: none;}
+.submit{margin-left: 10px; font-size: 10px; background-color: rgb(245, 9, 9); }
+.resetButtonInput{display: none; }
+.show{display:block; background-color: rgb(73, 67, 67); color: #ccc; border: 1px solid  rgb(170, 164, 164);}
+.resetButtonInput:hover{border: 1px solid rgb(192, 58, 147)}
+ol{padding-left: 20px; word-wrap: break-word;}
+.li{border: 1px solid #555; background-color: rgb(8, 10, 168); color: #fff;padding: 8PX; }
+.del{border:1px solid transparent;}
+.del:hover{border:1px solid rgb(102, 147, 206)}
+
+.image{width: 50px; height: 30px; background-image: url('./img/img_gnb_game1.jpg'); background-repeat: no-repeat; background-size: cover;
+  }
