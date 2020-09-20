@@ -8,8 +8,14 @@
 
 
 <url>
-  <loc>https://randomnumber.netlify.app/</loc>
-  <lastmod>2020-09-20T10:27:25+00:00</lastmod>
+  <loc>https://randomnumberkjb.netlify.app/</loc>
+  <lastmod>2020-09-20T10:36:02+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://randomnumberkjb.netlify.app/index1.html</loc>
+  <lastmod>2020-09-20T10:36:02+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
