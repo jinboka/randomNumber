@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap:Sitemap:https://randomnumberkjb.netlify.app/sitemap.xml
