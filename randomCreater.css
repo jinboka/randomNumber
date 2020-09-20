@@ -16,7 +16,7 @@ body{font-family: 'Courier New', Courier, monospace; background-color: rgb(34, 2
 .show{display:block; background-color: rgb(73, 67, 67); color: #ccc; border: 1px solid  rgb(170, 164, 164);}
 .resetButtonInput:hover{border: 1px solid rgb(192, 58, 147)}
 ol{padding-left: 20px; word-wrap: break-word;}
-.li{border: 1px solid #555; background-color: rgb(8, 10, 168); color: #fff;padding: 8PX; }
+.li{border: 1px solid #555; background-color: rgb(8, 10, 168); color: #fff;padding: 8PX;border-radius: 15px; }
 .del{border:1px solid transparent;}
 .del:hover{border:1px solid rgb(102, 147, 206)}
 
