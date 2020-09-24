@@ -13,9 +13,10 @@ li{list-style: none; border: 1px solid rgb(78, 69, 69);line-height: 60px; width:
 .box5{background-color:blue;}
 .box6{background-color:rgb(58, 3, 58);}
 input{ margin-left: 40px; border-radius: 8px; border:2px solid transparent; padding: 5px 8px;width:62px;color: #ccc;}
-input:hover{border: 2px solid rgb(51, 109, 216)}.start{background-color: #444;}
-.stop{background-color: rgb(243, 30, 190);}
-.reset{background-color: #666;}
+input:hover{border: 2px solid rgb(51, 109, 216)}
+.start{background-color: #444; border: 2px solid rgb(40, 161, 218); border-radius: 8px; }
+.stop{background-color: rgb(243, 30, 190);border: 2px solid rgb(40, 161, 218); border-radius: 8px;}
+.reset{background-color: #666;border: 2px solid rgb(40, 161, 218); border-radius: 8px;}
 ul{display: grid; grid-template-columns:  62px 62px 62px 62px 62px 62px;margin: 20px auto;gap: 0px;text-align: center;width:372px;}
 .form{text-align: center; margin-left: -350px;}
 h2 {color: #fff;  font-size: 1.2em; padding: 10px 0px;letter-spacing: 0.5em; border:3px solid rgb(4, 14, 100);border-radius: 12px; background-color: turquoise;width:372px;text-align: center;}
