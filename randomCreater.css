@@ -25,3 +25,4 @@ ol{padding-left: 20px; word-wrap: break-word;}
 
 .image{width: 50px; height: 30px; background-image: url('./img/img_gnb_game1.jpg'); background-repeat: no-repeat; background-size: cover;
   }
+  footer{color:#fff; position: absolute; bottom: 0px; }
