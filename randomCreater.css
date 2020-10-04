@@ -30,7 +30,7 @@ ol{padding-left: 20px; word-wrap: break-word;}
   }
   footer{color:#fff;  position: absolute; top:800px; margin: 0px; padding-left: 0px;}
   .adfit{ top: 200px; position: relative; margin: 0px;}
-  .adfit_remove{ background-color:#555; width: 15px; height: 15px; position: absolute; left: 0; top:0; font-size: 16px;display: inline-block;text-align: center; margin: 0; padding: 0; cursor: pointer; line-height: 15px;}
+  .adfit_remove{ background-color:#555; width: 18px; height: 18px; position: absolute; left: 0; top:0; font-size: 18px;display: inline-block;text-align: center; margin: 0; padding: 0; cursor: pointer; line-height: 18px;}
   .blind{display: none}
   .randomBT{margin: 10px;}
   
