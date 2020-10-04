@@ -3,7 +3,6 @@ body{font-family: 'Courier New', Courier, monospace; background-color: rgb(34, 2
 .wrap{width: 100%;margin-left: 15px;}
 .wrap a{text-decoration: none;color:rgb(34, 229, 236);  letter-spacing: -1px; white-space: -1px; display: block;border: 2px solid transparent; border-radius: 10px;}
 .wrap .before{border: 2px solid rgb(80, 4, 4); border-radius: 10px; background-color: #f11;  width: 372px; font-size: 1.2em; font-weight: bolder; text-align: center; letter-spacing: -10px; }
-.addthis_inline_share_toolbox{position: fixed; }
              
 .wrap a:hover{background-color: tomato;}
 .wrap .title{color: rgb(12, 83, 163); font-size: 1.3em; letter-spacing: -2px; font-weight: bold; margin-bottom: 0px;}
@@ -30,7 +29,7 @@ ol{padding-left: 20px; word-wrap: break-word;}
 .image{width: 50px; height: 30px; background-image: url('./img/img_gnb_game1.jpg'); background-repeat: no-repeat; background-size: cover;
   }
   footer{color:#fff;  bottom: 0px; margin: 0px; padding-left: 0px;}
-  .adfit{ top: 600px; position: relative; margin: 0px;}
-  .adfit_remove{ background-color:#555; width: 15px; height: 15px; position: absolute; left: 0; top:0; font-size: 15px;display: inline-block;text-align: center; margin: 0; padding: 0; cursor: pointer;}
+  .adfit{ top: 400px; position: relative; margin: 0px;}
+  .adfit_remove{ background-color:#555; width: 15px; height: 15px; position: absolute; left: 0; top:0; font-size: 15px;display: inline-block;text-align: center; margin: 0; padding: 0; cursor: pointer; line-height: 15px;}
   .blind{display: none}
   
