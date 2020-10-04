@@ -11,7 +11,9 @@ const RESET_SHOW = "show";
 // const START_NB = rangeInput.value,
 //       END_NB = endNumber = rangeInputEnd.value,
 //       HOWMANY_NB = howMany = numberInput.value;
- 
+ const adfit_remove = document.querySelector(".adfit_remove");
+ const adfit = document.querySelector(".adfit");
+ const blind = "blind";
 const excuteRamdomNumbers = [];
 
 function handleDelete(event){
@@ -97,12 +99,16 @@ function handleClick(event){
     
   
 // }
+function handleRemove(){
+  adfit.classList.add(blind);
+}
+
 function init(){
 // form.addEventListener("submit", handleSubmit);
 form.addEventListener("submit",generate); 
 SUBMIT.addEventListener("submit",generate);
 RESET_BT.addEventListener("click", handleClick);
- 
+adfit_remove.addEventListener("click", handleRemove); 
 }
 
   init();
