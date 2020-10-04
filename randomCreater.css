@@ -1,4 +1,5 @@
-body{font-family: 'Courier New', Courier, monospace; background-color: rgb(34, 229, 236);margin: 0px;position: relative;}
+html{position: relative;}
+body{font-family: 'Courier New', Courier, monospace; background-color: rgb(34, 229, 236);margin: 0px;}
 .wrap{width: 100%;margin-left: 15px;}
 .wrap a{text-decoration: none;color:rgb(34, 229, 236);  letter-spacing: -1px; white-space: -1px; display: block;border: 2px solid transparent; border-radius: 10px;}
 .wrap .before{border: 2px solid rgb(80, 4, 4); border-radius: 10px; background-color: #f11;  width: 372px; font-size: 1.2em; font-weight: bolder; text-align: center; letter-spacing: -10px; position: fixed;}
