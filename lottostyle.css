@@ -21,7 +21,7 @@ ul{display: grid; grid-template-columns:  62px 62px 62px 62px 62px 62px;margin: 
 .form{text-align: center; margin-left: -350px;}
 h2 {color: #fff;  font-size: 1.2em; padding: 10px 0px;letter-spacing: 0.5em; border:3px solid rgb(4, 14, 100);border-radius: 12px; background-color: turquoise;width:372px;text-align: center;}
 h2 a{color: #fff; text-decoration: none; display: block;text-align: center;}
-.radom_creater{width:372px; margin: 50px auto; }
+.radom_creater{width:372px; margin: 10px auto; }
 .list{text-align: center;}
 h1{margin: 50px  20px auto; color: #fff; font-size: 1.5em;}
 .image{display: inline-block; margin-bottom: -8px; margin-right: -8px; width: 100px; height: 30px; background-image: url('./img/img_gnb_game1.jpg'); background-repeat: no-repeat; background-position: 0px, -50px;
