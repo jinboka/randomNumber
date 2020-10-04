@@ -28,6 +28,6 @@ ol{padding-left: 20px; word-wrap: break-word;}
   }
   footer{color:#fff; position: fixed; position: relative; bottom: 0px; margin-top: 0px;}
   .adfit{ bottom: 60px;position: fixed; margin-bottom: 0px;}
-  .adfit_remove{border: 1px solid #333; background-color:#555; width: 5px; height: 5px; position: absolute; left: 0; top:0}
+  .adfit_remove{border: 1px solid #333; background-color:#555; width: 10px; height: 10px; position: absolute; left: 0; top:0; font-size: 6px;display: inline-block;}
   .blind{display: none}
   
