@@ -13,7 +13,7 @@ body{font-family: 'Courier New', Courier, monospace; background-color: rgb(34, 2
 .wrap .rangeInput::placeholder, .wrap .numberInput::placeholder , .rangeInputEnd::placeholder {opacity: .3;}
 .wrap .numberInput, .rangeInputEnd{width: 60px;}
 .wrap .numberInput{margin-left: 7px;}
-.wrap .radom_content{height: 1000px;}
+.wrap .radom_content{height: 500px; z-index: -1;}
 .del{margin-right: 10px; background-color: transparent;border: none;}
 .submit{margin-left: 10px; font-size: 15px; background-color: rgb(245, 9, 9); }
 .resetButtonInput{display: none; }
@@ -26,5 +26,5 @@ ol{padding-left: 20px; word-wrap: break-word;}
 
 .image{width: 50px; height: 30px; background-image: url('./img/img_gnb_game1.jpg'); background-repeat: no-repeat; background-size: cover;
   }
-  footer{color:#fff;  bottom: 0px; }
-  .adfit{ bottom: 60px;}
+  footer{color:#fff; position: fixed; bottom: 0px; }
+  .adfit{ bottom: 60px;position: fixed;}
