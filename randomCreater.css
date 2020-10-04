@@ -15,7 +15,7 @@ body{font-family: 'Courier New', Courier, monospace; background-color: rgb(34, 2
 .wrap .rangeInput::placeholder, .wrap .numberInput::placeholder , .rangeInputEnd::placeholder {opacity: .3;}
 .wrap .numberInput, .rangeInputEnd{width: 60px;}
 .wrap .numberInput{margin-left: 7px;}
-.radom_content{height: 30%; z-index: 1;}
+.radom_content{height: 30%; z-index: 1; position: relative;}
 .del{margin-right: 10px; background-color: transparent;border: none;}
 .submit{margin-left: 10px; font-size: 15px; background-color: rgb(245, 9, 9); }
 .resetButtonInput{display: none; }
@@ -30,6 +30,6 @@ ol{padding-left: 20px; word-wrap: break-word;}
   }
   footer{color:#fff;  bottom: 0px; margin-top: 0px;}
   .adfit{ bottom: 30px; position: relative; margin-bottom: 0px;}
-  .adfit_remove{ background-color:#555; width: 15px; height: 10px; position: absolute; left: 0; top:0; font-size: 15px;display: inline-block;text-align: center; margin: 0; padding: 0;}
+  .adfit_remove{ background-color:#555; width: 15px; height: 15px; position: absolute; left: 0; top:0; font-size: 15px;display: inline-block;text-align: center; margin: 0; padding: 0;}
   .blind{display: none}
   
