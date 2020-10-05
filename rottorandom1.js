@@ -35,7 +35,7 @@ var STOP_NB = null;
     CREATE_NB3.innerHTML= arrayContainer[3];
     CREATE_NB4.innerHTML= arrayContainer[4];
     CREATE_NB5.innerHTML= arrayContainer[5];
-    
+    NB_CRATE_BT.disabled= true;
 }
 
 function interval(event){
@@ -48,6 +48,8 @@ function handleReset(event){
 function handleStop(event){
    if(STOP_NB !== null){clearInterval(STOP_NB); 
 } 
+NB_CRATE_BT.disabled= false;
+
 }
 
 function init(){
